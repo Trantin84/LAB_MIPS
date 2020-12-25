@@ -1,0 +1,10 @@
+SỐ HỌC / NHẬP XUẤT
+1. In ra màn hình dòng chữ.
+2. Nhập vào 2 số nguyên, xuất ra giá trị các phép toán + - * / %  (giả định rằng số chia khác 0)
+*3. Nhập vào 2 số thực, xuất ra giá trị các phép toán + - * /  (giả định rằng số chia khác 0)
+4. Chuyển đổi độ F sang độ C, cho công thức  (32°F − 32) × 5/9 = 0°C
+5. Nhập vào ngày tháng năm sinh và in ra màn hình các thông tin vừa nhập.
+
+
+Sloved
+1. hello.asm
